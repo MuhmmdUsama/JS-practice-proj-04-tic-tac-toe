@@ -10,7 +10,8 @@
 
 .title {
   background: #55adff;
-  padding: 1rem;
+  padding: 0.5rem;
+  font-size: 2rem;
   font-weight: 600;
   border-radius: 4px;
 }
@@ -28,5 +29,6 @@
 }
 
 .square:hover {
+  color: #fff;
   background: #fd4c4c;
 }
