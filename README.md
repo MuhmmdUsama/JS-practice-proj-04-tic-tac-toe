@@ -3,6 +3,12 @@
 
 >Tic-Tac-Toe is a simple and fun game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row. 
 
+
+
+https://user-images.githubusercontent.com/45886560/182201192-31dad65f-8b0c-43aa-8160-66ba9c1cc62f.mp4
+
+
+
 ## Built With
 
 - HTML
